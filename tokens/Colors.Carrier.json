@@ -324,7 +324,7 @@
     },
     "Base100": {
       "$type": "color",
-      "$value": "#00ffff",
+      "$value": "#5f6f6f",
       "$description": "📦 Multibrand",
       "$extensions": {
         "com.figma": {
@@ -338,7 +338,7 @@
     },
     "Base90": {
       "$type": "color",
-      "$value": "#ff00bf",
+      "$value": "#687878",
       "$description": "📦 Multibrand",
       "$extensions": {
         "com.figma": {

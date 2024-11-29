@@ -241,15 +241,23 @@ export function generatePostVariablesPayload(
     [variableCollectionId: string]: { [variableName: string]: LocalVariable }
   } = {}
 
+  console.log('\nProcessing collections:')
+
   Object.values(localVariables.meta.variableCollections).forEach((collection) => {
+    console.log(
+      `\nCollection: "${collection.name}" (remote: ${collection.remote}, fileKey: ${collection.key})`,
+    )
+
     collection.modes.forEach((mode) => {
       const collectionKey = `${collection.name}.${mode.name}`
-      if (localVariableCollectionsByName[collectionKey]) {
-        throw new Error(`Duplicate variable collection and mode in file: ${collectionKey}`)
-      }
+      console.log(`- Processing mode: "${mode.name}" -> key: "${collectionKey}"`)
+
+      console.log(`  → Adding to map with key: "${collectionKey}"`)
       localVariableCollectionsByName[collectionKey] = collection
     })
   })
+
+  console.log('\nFinal mapping:', Object.keys(localVariableCollectionsByName))
 
   Object.values(localVariables.meta.variables).forEach((variable) => {
     if (!localVariablesByCollectionAndName[variable.variableCollectionId]) {

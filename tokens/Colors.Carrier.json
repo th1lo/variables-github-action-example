@@ -2,7 +2,7 @@
   "Base": {
     "CoolBlue100": {
       "$type": "color",
-      "$value": "#0033b1",
+      "$value": "#ffffff",
       "$description": "📦 Multibrand: Cooling",
       "$extensions": {
         "com.figma": {
@@ -198,7 +198,7 @@
     },
     "Red100": {
       "$type": "color",
-      "$value": "#ffffff",
+      "$value": "#9fd4e9",
       "$description": "📦 Multibrand Heating Comfort, Level 3, Vicare Main CTA, Brand Color, DHW Temp 2, Heating dark and light",
       "$extensions": {
         "com.figma": {

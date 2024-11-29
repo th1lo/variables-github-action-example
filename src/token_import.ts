@@ -236,17 +236,19 @@ export function generatePostVariablesPayload(
   tokensByFile: FlattenedTokensByFile,
   localVariables: GetLocalVariablesResponse,
 ) {
-  const localVariableCollectionsByName: { [name: string]: LocalVariableCollection } = {}
+  const localVariableCollectionsByName: { [key: string]: LocalVariableCollection } = {}
   const localVariablesByCollectionAndName: {
     [variableCollectionId: string]: { [variableName: string]: LocalVariable }
   } = {}
 
   Object.values(localVariables.meta.variableCollections).forEach((collection) => {
-    if (localVariableCollectionsByName[collection.name]) {
-      throw new Error(`Duplicate variable collection in file: ${collection.name}`)
-    }
-
-    localVariableCollectionsByName[collection.name] = collection
+    collection.modes.forEach((mode) => {
+      const collectionKey = `${collection.name}.${mode.name}`
+      if (localVariableCollectionsByName[collectionKey]) {
+        throw new Error(`Duplicate variable collection and mode in file: ${collectionKey}`)
+      }
+      localVariableCollectionsByName[collectionKey] = collection
+    })
   })
 
   Object.values(localVariables.meta.variables).forEach((variable) => {
@@ -272,7 +274,7 @@ export function generatePostVariablesPayload(
   Object.entries(tokensByFile).forEach(([fileName, tokens]) => {
     const { collectionName, modeName } = collectionAndModeFromFileName(fileName)
 
-    const variableCollection = localVariableCollectionsByName[collectionName]
+    const variableCollection = localVariableCollectionsByName[`${collectionName}.${modeName}`]
     // Use the actual variable collection id or use the name as the temporary id
     const variableCollectionId = variableCollection ? variableCollection.id : collectionName
     const variableMode = variableCollection?.modes.find((mode) => mode.name === modeName)

@@ -198,7 +198,7 @@
     },
     "Red100": {
       "$type": "color",
-      "$value": "#9fd4e9",
+      "$value": "#ffffff",
       "$description": "📦 Multibrand Heating Comfort, Level 3, Vicare Main CTA, Brand Color, DHW Temp 2, Heating dark and light",
       "$extensions": {
         "com.figma": {

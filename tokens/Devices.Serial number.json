@@ -1,0 +1,94 @@
+{
+  "Viessmann": {
+    "Air": {
+      "Vitoai﻿r FS": {
+        "$type": "string",
+        "$value": "9140182408",
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "TEXT_CONTENT"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      }
+    },
+    "Hydraulic": {
+      "Vitocal 250-A": {
+        "$type": "string",
+        "$value": "10284012480",
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "TEXT_CONTENT"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "Vitocal 262-A": {
+        "$type": "string",
+        "$value": "2419249244",
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "TEXT_CONTENT"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      }
+    },
+    "Electrical": {
+      "Vitocharge VX3": {
+        "$type": "string",
+        "$value": "00410424442",
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "TEXT_CONTENT"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "Vitovolt 300": {
+        "$type": "string",
+        "$value": "08252083505",
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "TEXT_CONTENT"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "Charging Station MEACC-AC 11kW": {
+        "$type": "string",
+        "$value": "91305820354",
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "TEXT_CONTENT"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      }
+    }
+  }
+}

@@ -5,7 +5,7 @@
         "layout": {
           "surface": {
             "$type": "color",
-            "$value": "{primitive.color.primary.white}",
+            "$value": "{primitive.color.grey.100}",
             "$description": "Surface",
             "$extensions": {
               "com.figma": {
@@ -20,7 +20,7 @@
           },
           "canvas": {
             "$type": "color",
-            "$value": "{primitive.color.grey.10}",
+            "$value": "{primitive.color.primary.black}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -35,7 +35,7 @@
           },
           "subtle": {
             "$type": "color",
-            "$value": "{primitive.color.grey.20}",
+            "$value": "{primitive.color.grey.90}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -50,7 +50,7 @@
           },
           "overlay": {
             "$type": "color",
-            "$value": "{primitive.color.primary.transparent.black.30}",
+            "$value": "{primitive.color.primary.transparent.black.70}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -70,7 +70,7 @@
               "foreground": {
                 "default": {
                   "$type": "color",
-                  "$value": "{primitive.color.primary.black}",
+                  "$value": "{primitive.color.primary.white}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -85,7 +85,7 @@
                 },
                 "hover": {
                   "$type": "color",
-                  "$value": "{primitive.color.primary.black}",
+                  "$value": "{primitive.color.primary.white}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -100,7 +100,7 @@
                 },
                 "pressed": {
                   "$type": "color",
-                  "$value": "{primitive.color.primary.black}",
+                  "$value": "{primitive.color.primary.white}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -115,7 +115,7 @@
                 },
                 "disabled": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.40}",
+                  "$value": "{primitive.color.grey.70}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -132,7 +132,7 @@
               "background": {
                 "default": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.100}",
+                  "$value": "{primitive.color.primary.white}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -146,7 +146,7 @@
                 },
                 "hover": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.100}",
+                  "$value": "{primitive.color.primary.white}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -160,7 +160,7 @@
                 },
                 "pressed": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.100}",
+                  "$value": "{primitive.color.primary.white}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -192,7 +192,7 @@
               "foreground": {
                 "default": {
                   "$type": "color",
-                  "$value": "{primitive.color.primary.white}",
+                  "$value": "{primitive.color.grey.100}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -207,7 +207,7 @@
                 },
                 "hover": {
                   "$type": "color",
-                  "$value": "{primitive.color.primary.white}",
+                  "$value": "{primitive.color.grey.100}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -222,7 +222,7 @@
                 },
                 "pressed": {
                   "$type": "color",
-                  "$value": "{primitive.color.primary.white}",
+                  "$value": "{primitive.color.grey.100}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -237,7 +237,7 @@
                 },
                 "disabled": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.5}",
+                  "$value": "{primitive.color.grey.90}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -258,7 +258,7 @@
               "foreground": {
                 "default": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.60}",
+                  "$value": "{primitive.color.grey.40}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -273,7 +273,7 @@
                 },
                 "hover": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.60}",
+                  "$value": "{primitive.color.grey.40}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -288,7 +288,7 @@
                 },
                 "pressed": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.60}",
+                  "$value": "{primitive.color.grey.40}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -303,7 +303,7 @@
                 },
                 "disabled": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.30}",
+                  "$value": "{primitive.color.grey.70}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -320,7 +320,7 @@
               "background": {
                 "default": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.60}",
+                  "$value": "{primitive.color.grey.20}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -334,7 +334,7 @@
                 },
                 "hover": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.60}",
+                  "$value": "{primitive.color.grey.20}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -348,7 +348,7 @@
                 },
                 "pressed": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.60}",
+                  "$value": "{primitive.color.grey.20}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -362,7 +362,7 @@
                 },
                 "disabled": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.20}",
+                  "$value": "{primitive.color.grey.70}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -380,7 +380,7 @@
               "foreground": {
                 "default": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.5}",
+                  "$value": "{primitive.color.grey.100}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -395,7 +395,7 @@
                 },
                 "hover": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.5}",
+                  "$value": "{primitive.color.grey.100}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -410,7 +410,7 @@
                 },
                 "pressed": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.5}",
+                  "$value": "{primitive.color.grey.100}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -425,7 +425,7 @@
                 },
                 "disabled": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.50}",
+                  "$value": "{primitive.color.grey.90}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -446,7 +446,7 @@
               "foreground": {
                 "default": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.40}",
+                  "$value": "{primitive.color.grey.60}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -461,7 +461,7 @@
                 },
                 "hover": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.40}",
+                  "$value": "{primitive.color.grey.60}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -476,7 +476,7 @@
                 },
                 "pressed": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.40}",
+                  "$value": "{primitive.color.grey.60}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -491,7 +491,7 @@
                 },
                 "disabled": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.30}",
+                  "$value": "{primitive.color.grey.70}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -508,7 +508,7 @@
               "background": {
                 "default": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.20}",
+                  "$value": "{primitive.color.grey.70}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -522,7 +522,7 @@
                 },
                 "hover": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.20}",
+                  "$value": "{primitive.color.grey.70}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -536,7 +536,7 @@
                 },
                 "pressed": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.20}",
+                  "$value": "{primitive.color.grey.70}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -550,7 +550,7 @@
                 },
                 "disabled": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.5}",
+                  "$value": "{primitive.color.grey.100}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -568,7 +568,7 @@
               "foreground": {
                 "default": {
                   "$type": "color",
-                  "$value": "{primitive.color.primary.white}",
+                  "$value": "{primitive.color.grey.100}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -583,7 +583,7 @@
                 },
                 "hover": {
                   "$type": "color",
-                  "$value": "{primitive.color.primary.white}",
+                  "$value": "{primitive.color.grey.100}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -598,7 +598,7 @@
                 },
                 "pressed": {
                   "$type": "color",
-                  "$value": "{primitive.color.primary.white}",
+                  "$value": "{primitive.color.grey.100}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -613,7 +613,7 @@
                 },
                 "disabled": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.40}",
+                  "$value": "{primitive.color.grey.90}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -630,7 +630,7 @@
               "background": {
                 "default": {
                   "$type": "color",
-                  "$value": "{primitive.color.primary.white}",
+                  "$value": "{primitive.color.grey.100}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -644,7 +644,7 @@
                 },
                 "hover": {
                   "$type": "color",
-                  "$value": "{primitive.color.primary.white}",
+                  "$value": "{primitive.color.grey.100}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -658,7 +658,7 @@
                 },
                 "pressed": {
                   "$type": "color",
-                  "$value": "{primitive.color.primary.white}",
+                  "$value": "{primitive.color.grey.100}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -672,7 +672,7 @@
                 },
                 "disabled": {
                   "$type": "color",
-                  "$value": "{primitive.color.grey.5}",
+                  "$value": "{primitive.color.grey.90}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1082,7 +1082,7 @@
               "surface": {
                 "0": {
                   "$type": "color",
-                  "$value": "#ffffff00",
+                  "$value": "#191e2100",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1098,7 +1098,7 @@
                 },
                 "5": {
                   "$type": "color",
-                  "$value": "#ffffff0d",
+                  "$value": "#191e210d",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1114,7 +1114,7 @@
                 },
                 "10": {
                   "$type": "color",
-                  "$value": "#ffffff1a",
+                  "$value": "#191e211a",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1130,7 +1130,7 @@
                 },
                 "20": {
                   "$type": "color",
-                  "$value": "#ffffff33",
+                  "$value": "#191e2133",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1146,7 +1146,7 @@
                 },
                 "30": {
                   "$type": "color",
-                  "$value": "#ffffff4d",
+                  "$value": "#191e214d",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1162,7 +1162,7 @@
                 },
                 "40": {
                   "$type": "color",
-                  "$value": "#ffffff66",
+                  "$value": "#191e2166",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1178,7 +1178,7 @@
                 },
                 "50": {
                   "$type": "color",
-                  "$value": "#ffffff80",
+                  "$value": "#191e2180",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1194,7 +1194,7 @@
                 },
                 "60": {
                   "$type": "color",
-                  "$value": "#ffffff99",
+                  "$value": "#191e2199",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1210,7 +1210,7 @@
                 },
                 "70": {
                   "$type": "color",
-                  "$value": "#ffffffb2",
+                  "$value": "#191e21b2",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1226,7 +1226,7 @@
                 },
                 "80": {
                   "$type": "color",
-                  "$value": "#ffffffcc",
+                  "$value": "#191e21cc",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1242,7 +1242,7 @@
                 },
                 "90": {
                   "$type": "color",
-                  "$value": "#ffffffe5",
+                  "$value": "#191e21e5",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1258,7 +1258,7 @@
                 },
                 "100": {
                   "$type": "color",
-                  "$value": "#ffffff",
+                  "$value": "#191e21",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1276,7 +1276,7 @@
               "canvas": {
                 "0": {
                   "$type": "color",
-                  "$value": "#f5f5f500",
+                  "$value": "#10131400",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1292,7 +1292,7 @@
                 },
                 "5": {
                   "$type": "color",
-                  "$value": "#f5f5f50d",
+                  "$value": "#1013140d",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1308,7 +1308,7 @@
                 },
                 "10": {
                   "$type": "color",
-                  "$value": "#f5f5f51a",
+                  "$value": "#1013141a",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1324,7 +1324,7 @@
                 },
                 "20": {
                   "$type": "color",
-                  "$value": "#f5f5f533",
+                  "$value": "#10131433",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1340,7 +1340,7 @@
                 },
                 "30": {
                   "$type": "color",
-                  "$value": "#f5f5f54d",
+                  "$value": "#1013144d",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1356,7 +1356,7 @@
                 },
                 "40": {
                   "$type": "color",
-                  "$value": "#f5f5f566",
+                  "$value": "#10131466",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1372,7 +1372,7 @@
                 },
                 "50": {
                   "$type": "color",
-                  "$value": "#f5f5f580",
+                  "$value": "#10131480",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1388,7 +1388,7 @@
                 },
                 "60": {
                   "$type": "color",
-                  "$value": "#f5f5f599",
+                  "$value": "#10131499",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1404,7 +1404,7 @@
                 },
                 "70": {
                   "$type": "color",
-                  "$value": "#f5f5f5b2",
+                  "$value": "#101314b2",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1420,7 +1420,7 @@
                 },
                 "80": {
                   "$type": "color",
-                  "$value": "#f5f5f5cc",
+                  "$value": "#101314cc",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1436,7 +1436,7 @@
                 },
                 "90": {
                   "$type": "color",
-                  "$value": "#f5f5f5e5",
+                  "$value": "#101314e5",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1452,7 +1452,7 @@
                 },
                 "100": {
                   "$type": "color",
-                  "$value": "#f5f5f5",
+                  "$value": "#101314",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -1475,7 +1475,7 @@
             "foreground": {
               "default": {
                 "$type": "color",
-                "$value": "{primitive.color.brand.60}",
+                "$value": "{primitive.color.brand.50}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -1490,7 +1490,7 @@
               },
               "hover": {
                 "$type": "color",
-                "$value": "{primitive.color.brand.60}",
+                "$value": "{primitive.color.brand.50}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -1505,7 +1505,7 @@
               },
               "pressed": {
                 "$type": "color",
-                "$value": "{primitive.color.brand.60}",
+                "$value": "{primitive.color.brand.50}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -1520,7 +1520,7 @@
               },
               "disabled": {
                 "$type": "color",
-                "$value": "{primitive.color.brand.30}",
+                "$value": "{primitive.color.brand.70}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -1582,7 +1582,7 @@
               },
               "disabled": {
                 "$type": "color",
-                "$value": "{primitive.color.brand.30}",
+                "$value": "{primitive.color.brand.70}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -1616,7 +1616,7 @@
               },
               "hover": {
                 "$type": "color",
-                "$value": "{primitive.color.primary.white}",
+                "$value": "{primitive.color.brand.10}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -1663,7 +1663,7 @@
             "background": {
               "default": {
                 "$type": "color",
-                "$value": "{primitive.color.primary.white}",
+                "$value": "{primitive.color.grey.100}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -1677,7 +1677,7 @@
               },
               "hover": {
                 "$type": "color",
-                "$value": "{primitive.color.primary.white}",
+                "$value": "{primitive.color.brand.100}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -1691,7 +1691,7 @@
               },
               "pressed": {
                 "$type": "color",
-                "$value": "{primitive.color.primary.white}",
+                "$value": "{primitive.color.brand.100}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -1705,7 +1705,7 @@
               },
               "disabled": {
                 "$type": "color",
-                "$value": "{primitive.color.brand.5}",
+                "$value": "{primitive.color.brand.100}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -1725,7 +1725,7 @@
             "foreground": {
               "default": {
                 "$type": "color",
-                "$value": "{primitive.color.red.60}",
+                "$value": "{primitive.color.red.50}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -1740,7 +1740,7 @@
               },
               "hover": {
                 "$type": "color",
-                "$value": "{primitive.color.red.60}",
+                "$value": "{primitive.color.red.50}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -1755,7 +1755,7 @@
               },
               "pressed": {
                 "$type": "color",
-                "$value": "{primitive.color.red.60}",
+                "$value": "{primitive.color.red.50}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -1772,7 +1772,7 @@
             "background": {
               "default": {
                 "$type": "color",
-                "$value": "{primitive.color.primary.white}",
+                "$value": "{primitive.color.primary.black}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -1786,7 +1786,7 @@
               },
               "hover": {
                 "$type": "color",
-                "$value": "{primitive.color.primary.white}",
+                "$value": "{primitive.color.primary.black}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -1800,7 +1800,7 @@
               },
               "pressed": {
                 "$type": "color",
-                "$value": "{primitive.color.primary.white}",
+                "$value": "{primitive.color.primary.black}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -1916,7 +1916,7 @@
             "foreground": {
               "default": {
                 "$type": "color",
-                "$value": "{primitive.color.green.60}",
+                "$value": "{primitive.color.green.50}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -1931,7 +1931,7 @@
               },
               "hover": {
                 "$type": "color",
-                "$value": "{primitive.color.green.60}",
+                "$value": "{primitive.color.green.50}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -1946,7 +1946,7 @@
               },
               "pressed": {
                 "$type": "color",
-                "$value": "{primitive.color.green.60}",
+                "$value": "{primitive.color.green.50}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -2056,7 +2056,7 @@
             "background": {
               "default": {
                 "$type": "color",
-                "$value": "{primitive.color.primary.white}",
+                "$value": "{primitive.color.green.100}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -2070,7 +2070,7 @@
               },
               "hover": {
                 "$type": "color",
-                "$value": "{primitive.color.primary.white}",
+                "$value": "{primitive.color.green.100}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -2084,7 +2084,7 @@
               },
               "pressed": {
                 "$type": "color",
-                "$value": "{primitive.color.primary.white}",
+                "$value": "{primitive.color.green.100}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -2104,7 +2104,7 @@
             "foreground": {
               "default": {
                 "$type": "color",
-                "$value": "{primitive.color.blue.60}",
+                "$value": "{primitive.color.blue.50}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -2119,7 +2119,7 @@
               },
               "hover": {
                 "$type": "color",
-                "$value": "{primitive.color.blue.60}",
+                "$value": "{primitive.color.blue.50}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -2134,7 +2134,7 @@
               },
               "pressed": {
                 "$type": "color",
-                "$value": "{primitive.color.blue.60}",
+                "$value": "{primitive.color.blue.50}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -2244,7 +2244,7 @@
             "background": {
               "default": {
                 "$type": "color",
-                "$value": "{primitive.color.primary.white}",
+                "$value": "{primitive.color.grey.100}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -2258,7 +2258,7 @@
               },
               "hover": {
                 "$type": "color",
-                "$value": "{primitive.color.primary.white}",
+                "$value": "{primitive.color.grey.100}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -2272,7 +2272,7 @@
               },
               "pressed": {
                 "$type": "color",
-                "$value": "{primitive.color.primary.white}",
+                "$value": "{primitive.color.grey.100}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -2293,7 +2293,7 @@
               "foreground": {
                 "default": {
                   "$type": "color",
-                  "$value": "{primitive.color.yellow.60}",
+                  "$value": "{primitive.color.yellow.30}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -2308,7 +2308,7 @@
                 },
                 "hover": {
                   "$type": "color",
-                  "$value": "{primitive.color.yellow.60}",
+                  "$value": "{primitive.color.yellow.30}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -2323,7 +2323,7 @@
                 },
                 "pressed": {
                   "$type": "color",
-                  "$value": "{primitive.color.yellow.60}",
+                  "$value": "{primitive.color.yellow.30}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -2433,7 +2433,7 @@
               "background": {
                 "default": {
                   "$type": "color",
-                  "$value": "{primitive.color.primary.white}",
+                  "$value": "{primitive.color.grey.100}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -2447,7 +2447,7 @@
                 },
                 "hover": {
                   "$type": "color",
-                  "$value": "{primitive.color.primary.white}",
+                  "$value": "{primitive.color.grey.100}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -2461,7 +2461,7 @@
                 },
                 "pressed": {
                   "$type": "color",
-                  "$value": "{primitive.color.primary.white}",
+                  "$value": "{primitive.color.grey.100}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -2481,7 +2481,7 @@
               "foreground": {
                 "default": {
                   "$type": "color",
-                  "$value": "{primitive.color.orange.60}",
+                  "$value": "{primitive.color.orange.40}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -2496,7 +2496,7 @@
                 },
                 "hover": {
                   "$type": "color",
-                  "$value": "{primitive.color.orange.60}",
+                  "$value": "{primitive.color.orange.40}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -2511,7 +2511,7 @@
                 },
                 "pressed": {
                   "$type": "color",
-                  "$value": "{primitive.color.orange.60}",
+                  "$value": "{primitive.color.orange.40}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -2621,7 +2621,7 @@
               "background": {
                 "default": {
                   "$type": "color",
-                  "$value": "{primitive.color.primary.white}",
+                  "$value": "{primitive.color.grey.100}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -2635,7 +2635,7 @@
                 },
                 "hover": {
                   "$type": "color",
-                  "$value": "{primitive.color.primary.white}",
+                  "$value": "{primitive.color.grey.100}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -2649,7 +2649,7 @@
                 },
                 "pressed": {
                   "$type": "color",
-                  "$value": "{primitive.color.primary.white}",
+                  "$value": "{primitive.color.grey.100}",
                   "$description": "",
                   "$extensions": {
                     "com.figma": {
@@ -2670,7 +2670,7 @@
             "foreground": {
               "default": {
                 "$type": "color",
-                "$value": "{primitive.color.turquoise.60}",
+                "$value": "{primitive.color.turquoise.50}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -2685,7 +2685,7 @@
               },
               "hover": {
                 "$type": "color",
-                "$value": "{primitive.color.turquoise.60}",
+                "$value": "{primitive.color.turquoise.50}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -2700,7 +2700,7 @@
               },
               "pressed": {
                 "$type": "color",
-                "$value": "{primitive.color.turquoise.60}",
+                "$value": "{primitive.color.turquoise.50}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -2810,7 +2810,7 @@
             "background": {
               "default": {
                 "$type": "color",
-                "$value": "{primitive.color.primary.white}",
+                "$value": "{primitive.color.grey.100}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -2824,7 +2824,7 @@
               },
               "hover": {
                 "$type": "color",
-                "$value": "{primitive.color.turquoise.5}",
+                "$value": "{primitive.color.turquoise.90}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -2838,7 +2838,7 @@
               },
               "pressed": {
                 "$type": "color",
-                "$value": "{primitive.color.turquoise.10}",
+                "$value": "{primitive.color.turquoise.100}",
                 "$description": "",
                 "$extensions": {
                   "com.figma": {
@@ -2857,7 +2857,7 @@
           "shadow": {
             "0": {
               "$type": "color",
-              "$value": "{semantic.color.fill.neutral.transparent.intense.surface.0}",
+              "$value": "{semantic.color.fill.neutral.transparent.intense.canvas.0}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -2872,7 +2872,7 @@
             },
             "100": {
               "$type": "color",
-              "$value": "{semantic.color.fill.neutral.transparent.intense.surface.5}",
+              "$value": "{semantic.color.fill.neutral.transparent.intense.canvas.40}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -3111,7 +3111,7 @@
             },
             "level2": {
               "$type": "color",
-              "$value": "{primitive.color.red.50}",
+              "$value": "{primitive.color.red.40}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -3127,7 +3127,7 @@
             },
             "level3": {
               "$type": "color",
-              "$value": "{primitive.color.red.60}",
+              "$value": "{primitive.color.red.40}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -3423,7 +3423,7 @@
         "heating": {
           "normal": {
             "$type": "color",
-            "$value": "{primitive.color.brand.40}",
+            "$value": "{primitive.color.red.40}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -3440,7 +3440,7 @@
           },
           "comfort": {
             "$type": "color",
-            "$value": "{primitive.color.brand.60}",
+            "$value": "{primitive.color.red.60}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -3634,7 +3634,7 @@
         "notification": {
           "default": {
             "$type": "color",
-            "$value": "{primitive.color.red.60}",
+            "$value": "{primitive.color.red.50}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -3666,7 +3666,7 @@
         "offline": {
           "offline": {
             "$type": "color",
-            "$value": "{primitive.color.grey.30}",
+            "$value": "{primitive.color.grey.50}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -3702,7 +3702,7 @@
         "pending": {
           "pending": {
             "$type": "color",
-            "$value": "{semantic.color.fill.info.intense.background.default}",
+            "$value": "{primitive.color.blue.60}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -4019,7 +4019,7 @@
           "high": {
             "default": {
               "$type": "color",
-              "$value": "{primitive.color.grey.100}",
+              "$value": "{primitive.color.primary.white}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4033,7 +4033,7 @@
             },
             "hover": {
               "$type": "color",
-              "$value": "{primitive.color.grey.100}",
+              "$value": "{primitive.color.primary.white}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4047,7 +4047,7 @@
             },
             "pressed": {
               "$type": "color",
-              "$value": "{primitive.color.grey.100}",
+              "$value": "{primitive.color.primary.white}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4075,7 +4075,7 @@
             },
             "active": {
               "$type": "color",
-              "$value": "{primitive.color.grey.100}",
+              "$value": "{primitive.color.primary.white}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4091,7 +4091,7 @@
           "medium": {
             "default": {
               "$type": "color",
-              "$value": "{primitive.color.grey.60}",
+              "$value": "{primitive.color.grey.20}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4105,7 +4105,7 @@
             },
             "hover": {
               "$type": "color",
-              "$value": "{primitive.color.grey.60}",
+              "$value": "{primitive.color.grey.20}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4119,7 +4119,7 @@
             },
             "pressed": {
               "$type": "color",
-              "$value": "{primitive.color.grey.60}",
+              "$value": "{primitive.color.grey.20}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4133,7 +4133,7 @@
             },
             "disabled": {
               "$type": "color",
-              "$value": "{primitive.color.grey.20}",
+              "$value": "{primitive.color.grey.70}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4163,7 +4163,7 @@
           "low": {
             "default": {
               "$type": "color",
-              "$value": "{primitive.color.grey.30}",
+              "$value": "{primitive.color.grey.70}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4177,7 +4177,7 @@
             },
             "hover": {
               "$type": "color",
-              "$value": "{primitive.color.grey.30}",
+              "$value": "{primitive.color.grey.70}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4191,7 +4191,7 @@
             },
             "pressed": {
               "$type": "color",
-              "$value": "{primitive.color.grey.30}",
+              "$value": "{primitive.color.grey.70}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4205,7 +4205,7 @@
             },
             "disabled": {
               "$type": "color",
-              "$value": "{primitive.color.grey.10}",
+              "$value": "{primitive.color.grey.90}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4278,7 +4278,7 @@
           },
           "disabled": {
             "$type": "color",
-            "$value": "{primitive.color.brand.30}",
+            "$value": "{primitive.color.brand.70}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -4294,7 +4294,7 @@
         "success": {
           "default": {
             "$type": "color",
-            "$value": "{primitive.color.green.60}",
+            "$value": "{primitive.color.green.50}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -4308,7 +4308,7 @@
           },
           "hover": {
             "$type": "color",
-            "$value": "{primitive.color.green.60}",
+            "$value": "{primitive.color.green.50}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -4322,7 +4322,7 @@
           },
           "pressed": {
             "$type": "color",
-            "$value": "{primitive.color.green.60}",
+            "$value": "{primitive.color.green.50}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -4338,7 +4338,7 @@
         "error": {
           "default": {
             "$type": "color",
-            "$value": "{primitive.color.red.60}",
+            "$value": "{primitive.color.red.50}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -4352,7 +4352,7 @@
           },
           "hover": {
             "$type": "color",
-            "$value": "{primitive.color.red.60}",
+            "$value": "{primitive.color.red.50}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -4366,7 +4366,7 @@
           },
           "pressed": {
             "$type": "color",
-            "$value": "{primitive.color.red.60}",
+            "$value": "{primitive.color.red.50}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -4383,7 +4383,7 @@
           "medium": {
             "default": {
               "$type": "color",
-              "$value": "{primitive.color.yellow.60}",
+              "$value": "{primitive.color.yellow.40}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4397,7 +4397,7 @@
             },
             "hover": {
               "$type": "color",
-              "$value": "{primitive.color.yellow.60}",
+              "$value": "{primitive.color.yellow.40}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4411,7 +4411,7 @@
             },
             "pressed": {
               "$type": "color",
-              "$value": "{primitive.color.yellow.60}",
+              "$value": "{primitive.color.yellow.40}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4473,7 +4473,7 @@
           "high": {
             "default": {
               "$type": "color",
-              "$value": "{primitive.color.blue.60}",
+              "$value": "{primitive.color.blue.50}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4487,7 +4487,7 @@
             },
             "hover": {
               "$type": "color",
-              "$value": "{primitive.color.blue.60}",
+              "$value": "{primitive.color.blue.50}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4501,7 +4501,7 @@
             },
             "pressed": {
               "$type": "color",
-              "$value": "{primitive.color.blue.60}",
+              "$value": "{primitive.color.blue.50}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4517,7 +4517,7 @@
           "low": {
             "default": {
               "$type": "color",
-              "$value": "{primitive.color.primary.white}",
+              "$value": "{primitive.color.blue.100}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4531,7 +4531,7 @@
             },
             "hover": {
               "$type": "color",
-              "$value": "{primitive.color.primary.white}",
+              "$value": "{primitive.color.blue.100}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4545,7 +4545,7 @@
             },
             "pressed": {
               "$type": "color",
-              "$value": "{primitive.color.primary.white}",
+              "$value": "{primitive.color.blue.100}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4607,7 +4607,7 @@
           "low": {
             "default": {
               "$type": "color",
-              "$value": "{primitive.color.primary.white}",
+              "$value": "{primitive.color.turquoise.100}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4621,7 +4621,7 @@
             },
             "hover": {
               "$type": "color",
-              "$value": "{primitive.color.primary.white}",
+              "$value": "{primitive.color.turquoise.100}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4635,7 +4635,7 @@
             },
             "pressed": {
               "$type": "color",
-              "$value": "{primitive.color.primary.white}",
+              "$value": "{primitive.color.turquoise.100}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -4902,7 +4902,7 @@
         "sequence": {
           "1": {
             "$type": "color",
-            "$value": "{primitive.color.purple.70}",
+            "$value": "{primitive.color.purple.60}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -4934,7 +4934,7 @@
           },
           "3": {
             "$type": "color",
-            "$value": "{primitive.color.turquoise.70}",
+            "$value": "{primitive.color.turquoise.60}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -4950,7 +4950,7 @@
           },
           "4": {
             "$type": "color",
-            "$value": "{primitive.color.magenta.70}",
+            "$value": "{primitive.color.magenta.40}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -4982,7 +4982,7 @@
           },
           "6": {
             "$type": "color",
-            "$value": "{primitive.color.red.80}",
+            "$value": "{primitive.color.red.10}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -4998,7 +4998,7 @@
           },
           "7": {
             "$type": "color",
-            "$value": "{primitive.color.green.60}",
+            "$value": "{primitive.color.green.30}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -5014,7 +5014,7 @@
           },
           "8": {
             "$type": "color",
-            "$value": "{primitive.color.blue.80}",
+            "$value": "{primitive.color.blue.50}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -5030,7 +5030,7 @@
           },
           "9": {
             "$type": "color",
-            "$value": "{primitive.color.magenta.50}",
+            "$value": "{primitive.color.magenta.60}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -5046,7 +5046,7 @@
           },
           "10": {
             "$type": "color",
-            "$value": "{primitive.color.yellow.50}",
+            "$value": "{primitive.color.yellow.40}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -5062,7 +5062,7 @@
           },
           "11": {
             "$type": "color",
-            "$value": "{primitive.color.turquoise.50}",
+            "$value": "{primitive.color.turquoise.40}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -5078,7 +5078,7 @@
           },
           "12": {
             "$type": "color",
-            "$value": "{primitive.color.blue.90}",
+            "$value": "{primitive.color.blue.20}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -5094,7 +5094,7 @@
           },
           "13": {
             "$type": "color",
-            "$value": "{primitive.color.orange.70}",
+            "$value": "{primitive.color.orange.60}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -5110,7 +5110,7 @@
           },
           "14": {
             "$type": "color",
-            "$value": "{primitive.color.purple.50}",
+            "$value": "{primitive.color.purple.30}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -5879,7 +5879,7 @@
           },
           "quaternary": {
             "$type": "color",
-            "$value": "{primitive.color.magenta.40}",
+            "$value": "{primitive.color.magenta.70}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -6075,7 +6075,7 @@
       },
       "box": {
         "$type": "number",
-        "$value": "{primitive.numbers.16}",
+        "$value": "{primitive.numbers.8}",
         "$description": "",
         "$extensions": {
           "com.figma": {
@@ -6089,7 +6089,7 @@
       },
       "control": {
         "$type": "number",
-        "$value": "{primitive.numbers.2048}",
+        "$value": "{primitive.numbers.0}",
         "$description": "",
         "$extensions": {
           "com.figma": {
@@ -6103,7 +6103,7 @@
       },
       "input": {
         "$type": "number",
-        "$value": "{primitive.numbers.8}",
+        "$value": "{primitive.numbers.4}",
         "$description": "",
         "$extensions": {
           "com.figma": {
@@ -6755,7 +6755,7 @@
           },
           "line-height": {
             "$type": "number",
-            "$value": "{Fonts.headline 3.line-height}",
+            "$value": "{layout.fonts.headline.3.line-height}",
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -7043,7 +7043,7 @@
           },
           "paragraph-spacing": {
             "$type": "number",
-            "$value": 32,
+            "$value": 0,
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -7129,7 +7129,7 @@
           },
           "paragraph-spacing": {
             "$type": "number",
-            "$value": 32,
+            "$value": 0,
             "$description": "",
             "$extensions": {
               "com.figma": {
@@ -8264,7 +8264,7 @@
             },
             "paragraph-spacing": {
               "$type": "number",
-              "$value": 16,
+              "$value": 0,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8282,7 +8282,7 @@
     },
     "brand-name": {
       "$type": "string",
-      "$value": "Viessmann",
+      "$value": "Toshiba",
       "$description": "",
       "$extensions": {
         "com.figma": {
@@ -8302,7 +8302,7 @@
           "1": {
             "position-x": {
               "$type": "number",
-              "$value": 0,
+              "$value": 2,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8316,7 +8316,7 @@
             },
             "position-y": {
               "$type": "number",
-              "$value": 1,
+              "$value": 2,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8330,7 +8330,7 @@
             },
             "blur": {
               "$type": "number",
-              "$value": 4,
+              "$value": 0,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8358,7 +8358,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{primitive.color.primary.transparent.black.20}",
+              "$value": "{primitive.color.grey.30}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8376,7 +8376,7 @@
           "1": {
             "position-x": {
               "$type": "number",
-              "$value": 0,
+              "$value": 6,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8390,7 +8390,7 @@
             },
             "position-y": {
               "$type": "number",
-              "$value": 4,
+              "$value": 6,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8404,7 +8404,7 @@
             },
             "blur": {
               "$type": "number",
-              "$value": 8,
+              "$value": 0,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8432,7 +8432,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{primitive.color.primary.transparent.black.10}",
+              "$value": "{primitive.color.grey.30}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8462,7 +8462,7 @@
             },
             "position-y": {
               "$type": "number",
-              "$value": 2,
+              "$value": 0,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8476,7 +8476,7 @@
             },
             "blur": {
               "$type": "number",
-              "$value": 4,
+              "$value": 0,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8504,7 +8504,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{primitive.color.primary.transparent.black.10}",
+              "$value": "{primitive.color.grey.30}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8534,7 +8534,7 @@
             },
             "position-y": {
               "$type": "number",
-              "$value": 1,
+              "$value": 0,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8548,7 +8548,7 @@
             },
             "blur": {
               "$type": "number",
-              "$value": 2,
+              "$value": 0,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8576,7 +8576,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{primitive.color.primary.transparent.black.10}",
+              "$value": "{primitive.color.grey.30}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8594,7 +8594,7 @@
           "1": {
             "position-x": {
               "$type": "number",
-              "$value": 0,
+              "$value": 10,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8608,7 +8608,7 @@
             },
             "position-y": {
               "$type": "number",
-              "$value": 8,
+              "$value": 10,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8622,7 +8622,7 @@
             },
             "blur": {
               "$type": "number",
-              "$value": 16,
+              "$value": 0,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8650,7 +8650,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{primitive.color.primary.transparent.black.10}",
+              "$value": "{primitive.color.grey.30}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8680,7 +8680,7 @@
             },
             "position-y": {
               "$type": "number",
-              "$value": 4,
+              "$value": 0,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8694,7 +8694,7 @@
             },
             "blur": {
               "$type": "number",
-              "$value": 8,
+              "$value": 0,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8722,7 +8722,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{primitive.color.primary.transparent.black.10}",
+              "$value": "{primitive.color.grey.30}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8752,7 +8752,7 @@
             },
             "position-y": {
               "$type": "number",
-              "$value": 2,
+              "$value": 0,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8766,7 +8766,7 @@
             },
             "blur": {
               "$type": "number",
-              "$value": 4,
+              "$value": 0,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8794,7 +8794,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{primitive.color.primary.transparent.black.10}",
+              "$value": "{primitive.color.grey.30}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8812,7 +8812,7 @@
           "1": {
             "position-x": {
               "$type": "number",
-              "$value": 0,
+              "$value": 12,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8826,7 +8826,7 @@
             },
             "position-y": {
               "$type": "number",
-              "$value": 16,
+              "$value": 12,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8840,7 +8840,7 @@
             },
             "blur": {
               "$type": "number",
-              "$value": 32,
+              "$value": 0,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8868,7 +8868,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{primitive.color.primary.transparent.black.10}",
+              "$value": "{primitive.color.grey.30}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8898,7 +8898,7 @@
             },
             "position-y": {
               "$type": "number",
-              "$value": 8,
+              "$value": 0,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8912,7 +8912,7 @@
             },
             "blur": {
               "$type": "number",
-              "$value": 16,
+              "$value": 0,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8940,7 +8940,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{primitive.color.primary.transparent.black.10}",
+              "$value": "{primitive.color.grey.30}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8970,7 +8970,7 @@
             },
             "position-y": {
               "$type": "number",
-              "$value": 4,
+              "$value": 0,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -8984,7 +8984,7 @@
             },
             "blur": {
               "$type": "number",
-              "$value": 8,
+              "$value": 0,
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9012,7 +9012,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{primitive.color.primary.transparent.black.10}",
+              "$value": "{primitive.color.grey.30}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9086,7 +9086,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{primitive.color.primary.transparent.black.10}",
+              "$value": "{primitive.color.primary.transparent.black.20}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9158,7 +9158,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{primitive.color.primary.transparent.black.10}",
+              "$value": "{primitive.color.primary.transparent.black.20}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9230,7 +9230,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{primitive.color.primary.transparent.black.10}",
+              "$value": "{primitive.color.primary.transparent.black.20}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9250,7 +9250,7 @@
       "primary": {
         "black": {
           "$type": "color",
-          "$value": "#101314",
+          "$value": "#000000",
           "$description": "",
           "$extensions": {
             "com.figma": {
@@ -9282,7 +9282,7 @@
         },
         "brand": {
           "$type": "color",
-          "$value": "{primitive.color.brand.50}",
+          "$value": "{primitive.color.brand.60}",
           "$description": "",
           "$extensions": {
             "com.figma": {
@@ -9301,7 +9301,7 @@
           "accent": {
             "5": {
               "$type": "color",
-              "$value": "#cc2c080d",
+              "$value": "#e61e1e0d",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9318,7 +9318,7 @@
             },
             "10": {
               "$type": "color",
-              "$value": "#cc2c081a",
+              "$value": "#e61e1e1a",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9335,7 +9335,7 @@
             },
             "20": {
               "$type": "color",
-              "$value": "#cc2c0833",
+              "$value": "#e61e1e33",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9352,7 +9352,7 @@
             },
             "30": {
               "$type": "color",
-              "$value": "#cc2c084d",
+              "$value": "#e61e1e4d",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9369,7 +9369,7 @@
             },
             "40": {
               "$type": "color",
-              "$value": "#cc2c0866",
+              "$value": "#e61e1e66",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9386,7 +9386,7 @@
             },
             "50": {
               "$type": "color",
-              "$value": "#cc2c0880",
+              "$value": "#e61e1e80",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9403,7 +9403,7 @@
             },
             "60": {
               "$type": "color",
-              "$value": "#cc2c0899",
+              "$value": "#e61e1e99",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9420,7 +9420,7 @@
             },
             "70": {
               "$type": "color",
-              "$value": "#cc2c08b2",
+              "$value": "#e61e1eb2",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9437,7 +9437,7 @@
             },
             "80": {
               "$type": "color",
-              "$value": "#cc2c08cc",
+              "$value": "#e61e1ecc",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9454,7 +9454,7 @@
             },
             "90": {
               "$type": "color",
-              "$value": "#cc2c08e5",
+              "$value": "#e61e1ee5",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9471,7 +9471,7 @@
             },
             "100": {
               "$type": "color",
-              "$value": "#cc2c08",
+              "$value": "#e61e1e",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9490,7 +9490,7 @@
           "black": {
             "0": {
               "$type": "color",
-              "$value": "#10131400",
+              "$value": "#00000000",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9507,7 +9507,7 @@
             },
             "5": {
               "$type": "color",
-              "$value": "#1013140d",
+              "$value": "#0000000d",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9524,7 +9524,7 @@
             },
             "10": {
               "$type": "color",
-              "$value": "#1013141a",
+              "$value": "#0000001a",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9541,7 +9541,7 @@
             },
             "20": {
               "$type": "color",
-              "$value": "#10131433",
+              "$value": "#00000033",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9558,7 +9558,7 @@
             },
             "30": {
               "$type": "color",
-              "$value": "#1013144d",
+              "$value": "#0000004d",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9575,7 +9575,7 @@
             },
             "40": {
               "$type": "color",
-              "$value": "#10131466",
+              "$value": "#00000066",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9592,7 +9592,7 @@
             },
             "50": {
               "$type": "color",
-              "$value": "#10131480",
+              "$value": "#00000080",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9609,7 +9609,7 @@
             },
             "60": {
               "$type": "color",
-              "$value": "#10131499",
+              "$value": "#00000099",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9626,7 +9626,7 @@
             },
             "70": {
               "$type": "color",
-              "$value": "#101314b2",
+              "$value": "#000000b2",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9643,7 +9643,7 @@
             },
             "80": {
               "$type": "color",
-              "$value": "#101314cc",
+              "$value": "#000000cc",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9660,7 +9660,7 @@
             },
             "90": {
               "$type": "color",
-              "$value": "#101314e5",
+              "$value": "#000000e5",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9677,7 +9677,7 @@
             },
             "100": {
               "$type": "color",
-              "$value": "#101314",
+              "$value": "#000000",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -9904,7 +9904,7 @@
       "brand": {
         "5": {
           "$type": "color",
-          "$value": "#fff7f5",
+          "$value": "#fff1f1",
           "$description": "",
           "$extensions": {
             "com.figma": {
@@ -9921,7 +9921,7 @@
         },
         "10": {
           "$type": "color",
-          "$value": "#ffe4df",
+          "$value": "#ffe0e0",
           "$description": "",
           "$extensions": {
             "com.figma": {
@@ -9938,7 +9938,7 @@
         },
         "20": {
           "$type": "color",
-          "$value": "#ffd6cd",
+          "$value": "#ffc7c7",
           "$description": "",
           "$extensions": {
             "com.figma": {
@@ -9955,7 +9955,7 @@
         },
         "30": {
           "$type": "color",
-          "$value": "#fcb2a2",
+          "$value": "#ffa0a0",
           "$description": "",
           "$extensions": {
             "com.figma": {
@@ -9972,7 +9972,7 @@
         },
         "40": {
           "$type": "color",
-          "$value": "#fe876f",
+          "$value": "#ff6a6a",
           "$description": "",
           "$extensions": {
             "com.figma": {
@@ -9989,7 +9989,7 @@
         },
         "50": {
           "$type": "color",
-          "$value": "#ff3e17",
+          "$value": "#f83b3b",
           "$description": "",
           "$extensions": {
             "com.figma": {
@@ -10006,7 +10006,7 @@
         },
         "60": {
           "$type": "color",
-          "$value": "#cc2c08",
+          "$value": "#e61e1e",
           "$description": "",
           "$extensions": {
             "com.figma": {
@@ -10023,7 +10023,7 @@
         },
         "70": {
           "$type": "color",
-          "$value": "#902a17",
+          "$value": "#c11414",
           "$description": "",
           "$extensions": {
             "com.figma": {
@@ -10040,7 +10040,7 @@
         },
         "80": {
           "$type": "color",
-          "$value": "#64281c",
+          "$value": "#a01414",
           "$description": "",
           "$extensions": {
             "com.figma": {
@@ -10057,7 +10057,7 @@
         },
         "90": {
           "$type": "color",
-          "$value": "#441f17",
+          "$value": "#841818",
           "$description": "",
           "$extensions": {
             "com.figma": {
@@ -10074,7 +10074,7 @@
         },
         "100": {
           "$type": "color",
-          "$value": "#290c06",
+          "$value": "#480707",
           "$description": "",
           "$extensions": {
             "com.figma": {
@@ -10573,7 +10573,7 @@
         },
         "60": {
           "$type": "color",
-          "$value": "#646a6e",
+          "$value": "#6d7276",
           "$description": "",
           "$extensions": {
             "com.figma": {
@@ -10985,7 +10985,7 @@
         },
         "80": {
           "$type": "color",
-          "$value": "#774200",
+          "$value": "#573312",
           "$description": "",
           "$extensions": {
             "com.figma": {
@@ -11795,7 +11795,7 @@
     "font": {
       "font-family": {
         "$type": "string",
-        "$value": "Viessmann VF",
+        "$value": "Open Sans",
         "$description": "",
         "$extensions": {
           "com.figma": {
@@ -12473,7 +12473,7 @@
     "bottom-sheet-dialog": {
       "background": {
         "$type": "color",
-        "$value": "{semantic.color.fill.layout.surface}",
+        "$value": "{primitive.color.grey.90}",
         "$description": "",
         "$extensions": {
           "com.figma": {
@@ -12671,7 +12671,7 @@
     "button": {
       "corner-radius": {
         "$type": "number",
-        "$value": 999,
+        "$value": 0,
         "$description": "",
         "$extensions": {
           "com.figma": {
@@ -12686,7 +12686,7 @@
       "primary": {
         "border-width": {
           "$type": "number",
-          "$value": 0,
+          "$value": 1,
           "$description": "",
           "$extensions": {
             "com.figma": {
@@ -12884,7 +12884,7 @@
           "default": {
             "background": {
               "$type": "color",
-              "$value": "{primitive.color.brand.60}",
+              "$value": "{primitive.color.primary.white}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -12898,7 +12898,7 @@
             },
             "border": {
               "$type": "color",
-              "$value": "{primitive.color.brand.60}",
+              "$value": "{primitive.color.primary.white}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -12912,7 +12912,7 @@
             },
             "foreground": {
               "$type": "color",
-              "$value": "{primitive.color.primary.white}",
+              "$value": "{primitive.color.grey.90}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -12929,7 +12929,7 @@
           "hover": {
             "background": {
               "$type": "color",
-              "$value": "{primitive.color.brand.60}",
+              "$value": "{primitive.color.primary.white}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -12957,7 +12957,7 @@
             },
             "foreground": {
               "$type": "color",
-              "$value": "{primitive.color.primary.white}",
+              "$value": "{primitive.color.primary.black}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -12974,7 +12974,7 @@
           "pressed": {
             "background": {
               "$type": "color",
-              "$value": "{primitive.color.brand.60}",
+              "$value": "{primitive.color.primary.white}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -13002,7 +13002,7 @@
             },
             "foreground": {
               "$type": "color",
-              "$value": "{primitive.color.primary.white}",
+              "$value": "{primitive.color.primary.black}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -13019,7 +13019,7 @@
           "disabled": {
             "background": {
               "$type": "color",
-              "$value": "{primitive.color.brand.5}",
+              "$value": "{primitive.color.grey.90}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -13033,7 +13033,7 @@
             },
             "border": {
               "$type": "color",
-              "$value": "{primitive.color.brand.5}",
+              "$value": "{primitive.color.grey.90}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -13047,7 +13047,7 @@
             },
             "foreground": {
               "$type": "color",
-              "$value": "{primitive.color.brand.40}",
+              "$value": "{primitive.color.grey.70}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -13110,7 +13110,7 @@
             },
             "foreground": {
               "$type": "color",
-              "$value": "{primitive.color.brand.60}",
+              "$value": "{primitive.color.brand.40}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -13245,7 +13245,7 @@
             },
             "foreground": {
               "$type": "color",
-              "$value": "{primitive.color.brand.30}",
+              "$value": "{primitive.color.brand.70}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -13292,7 +13292,7 @@
             },
             "foreground": {
               "$type": "color",
-              "$value": "{primitive.color.primary.black}",
+              "$value": "{primitive.color.primary.white}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -13337,7 +13337,7 @@
             },
             "foreground": {
               "$type": "color",
-              "$value": "{primitive.color.primary.black}",
+              "$value": "{primitive.color.primary.white}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -13382,7 +13382,7 @@
             },
             "foreground": {
               "$type": "color",
-              "$value": "{primitive.color.primary.black}",
+              "$value": "{primitive.color.primary.white}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -13413,7 +13413,7 @@
             },
             "border": {
               "$type": "color",
-              "$value": "{primitive.color.grey.40}",
+              "$value": "{primitive.color.grey.70}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -13427,7 +13427,7 @@
             },
             "foreground": {
               "$type": "color",
-              "$value": "{primitive.color.grey.40}",
+              "$value": "{primitive.color.grey.70}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -13490,7 +13490,7 @@
             },
             "foreground": {
               "$type": "color",
-              "$value": "{primitive.color.primary.black}",
+              "$value": "{primitive.color.brand.40}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -13535,7 +13535,7 @@
             },
             "foreground": {
               "$type": "color",
-              "$value": "{primitive.color.primary.black}",
+              "$value": "{primitive.color.brand.40}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -13580,7 +13580,7 @@
             },
             "foreground": {
               "$type": "color",
-              "$value": "{primitive.color.primary.black}",
+              "$value": "{primitive.color.brand.40}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -13625,7 +13625,7 @@
             },
             "foreground": {
               "$type": "color",
-              "$value": "{primitive.color.grey.40}",
+              "$value": "{primitive.color.brand.80}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -13672,7 +13672,7 @@
             },
             "foreground": {
               "$type": "color",
-              "$value": "{primitive.color.primary.black}",
+              "$value": "{primitive.color.primary.white}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -13717,7 +13717,7 @@
             },
             "foreground": {
               "$type": "color",
-              "$value": "{primitive.color.primary.black}",
+              "$value": "{primitive.color.primary.white}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -13762,7 +13762,7 @@
             },
             "foreground": {
               "$type": "color",
-              "$value": "{primitive.color.primary.black}",
+              "$value": "{primitive.color.primary.white}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
@@ -13807,7 +13807,7 @@
             },
             "foreground": {
               "$type": "color",
-              "$value": "{primitive.color.grey.40}",
+              "$value": "{primitive.color.grey.70}",
               "$description": "",
               "$extensions": {
                 "com.figma": {
